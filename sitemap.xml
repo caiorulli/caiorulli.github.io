@@ -3,15 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/09/06/on-choosing-independence-for-a-software-developer/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/programming/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/rust/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/suckless/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
+    <lastmod>2020-09-06T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2020/05/06/first-post-ever/</loc>
+    <lastmod>2020-05-06T00:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/random/</loc>
+    <lastmod>2020-05-06T00:00:00-03:00</lastmod>
   </url>
   
 </urlset>

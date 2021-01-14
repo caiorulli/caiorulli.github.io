@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home page on C.R.Thomaz</title>
-    <link>/</link>
-    <description>Recent content in Home page on C.R.Thomaz</description>
+    <title>linux on C.R.Thomaz</title>
+    <link>/tags/linux/</link>
+    <description>Recent content in linux on C.R.Thomaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 -0300</lastBuildDate><atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On choosing independence… for a software developer</title>
       <link>/post/2020/09/06/on-choosing-independence-for-a-software-developer/</link>
@@ -15,17 +15,6 @@
       <guid>/post/2020/09/06/on-choosing-independence-for-a-software-developer/</guid>
       <description>É tempo! Independência ou Morte! Estamos separados de Portugal!
  Rant in the woods On 2020 I&amp;rsquo;ve been watching lots of Luke Smith&amp;rsquo;s videos, among other Linux-related youtubers. Luke&amp;rsquo;s known to be a controversial figure, and he often wanders off the regular bash-and-vim routine to talk about something else, like this one, where talks about independence and life choices. As in, how he feels life gets better when, on a decision-by-decision basis, we strive for more independence.</description>
-    </item>
-    
-    <item>
-      <title>First post ever</title>
-      <link>/post/2020/05/06/first-post-ever/</link>
-      <pubDate>Wed, 06 May 2020 00:00:00 -0300</pubDate>
-      
-      <guid>/post/2020/05/06/first-post-ever/</guid>
-      <description>Hello there!  General Kenobi! You are a bold one&amp;hellip;
- Hey, so&amp;hellip; I&amp;rsquo;m thinking of making this my brain dump blog to just do some writing on tech/programming matters now and then. I&amp;rsquo;m not sure how wide the subject range might be, but I&amp;rsquo;ll probably rant on things I&amp;rsquo;ve had to fix lately, or maybe some different things I&amp;rsquo;ve bumped into.
-I could just write in Medium, but I guess I&amp;rsquo;m more comfortable here outside the grid.</description>
     </item>
     
   </channel>
